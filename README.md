@@ -1,2 +1,2 @@
 # weather-app-prj
-I created this porject based off using Flask Python. 
+I created this project based off using Flask Python. 
